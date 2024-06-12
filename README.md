@@ -134,7 +134,7 @@ Type show|compute|showcompute|plot|rational|showwalls|depth|help|quit (s|c|sc|p|
 
 
 ### Dependencies
-This code uses Python with the standard libraries as well as SymPy, tqdm and matplotlib.
+This code uses Python with the standard libraries as well as SymPy, tqdm and matplotlib. Only SymPy is required to run the code.
 
 #### Author
 Jonas Baltes
