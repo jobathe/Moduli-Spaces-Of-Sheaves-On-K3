@@ -13,8 +13,7 @@ It includes furthermore the interactive program **main.py** to compute and show 
 > The goal of the program is to give researchers a quick way to compute the nef and movable cones 
 > as well as the wall-and-chamber decomposition of moduli spaces over very general K3 surfaces.
 > 
-> The hope is that this may lead to new insights on moduli spaces and to find relations with other objects. For example, 
-> Seshadri constants mysteriously turn up in the wall-and-chamber decomposition of X^[3], see the author's thesis.
+> The hope is that this may lead to new insights on moduli spaces and to find relations with other objects. 
 
 ### Short example of main.py
 Run the program *main.py*. The program asks you what you want to show and compute:
@@ -136,5 +135,8 @@ Type show|compute|showcompute|plot|rational|showwalls|depth|help|quit (s|c|sc|p|
 
 ### Dependencies
 This code uses Python with the standard libraries as well as SymPy, tqdm and matplotlib.
+
+#### Author
+Jonas Baltes
 
 
