@@ -1,0 +1,8 @@
+.idea
+__pycache__
+venv
+supplementary.py
+test_modulispace.py
+mathfcts.py
+hilbertscheme
+test.py
