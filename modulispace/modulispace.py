@@ -68,7 +68,7 @@ except ImportError as e:
 
     # work around
     def tqdm(iterator=None, total=None, leave=None):
-        if iterator:
+        if iterator is not None:
             return iterator
         else:
             class Stub:
